@@ -9,4 +9,4 @@ cv.convert(docx_file)      # all pages by default
 cv.close()
 
 
-#test amaçlı
+#test amaçlı açıklama satırı
